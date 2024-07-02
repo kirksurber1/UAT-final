@@ -83,7 +83,7 @@ a:hover{
     top: 0;
     left: 10%;
     color: green;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, 50%);
 }
 .feature p{
     margin-bottom: 5px;
